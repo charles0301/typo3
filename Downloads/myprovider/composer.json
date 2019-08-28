@@ -1,0 +1,23 @@
+{
+	"name": "aimeos/myprovider",
+	"description": "Aimeos myprovider extension",
+	"keywords": ["aimeos", "extension", "payment", "shop", "e-commerce",],
+	"homepage": "https://typo3.org/",
+	"type": "aimeos-extension",
+	"license": "LGPL-3.0",
+	"prefer-stable": true,
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.4.0",
+		"composer/installers": "^1.0",
+		"aimeos/aimeos-core": "dev-master",
+	},
+	"autoload": {
+		"psr-4": {
+			"Aimeos\\MShop\\": "lib/mshoplib/src/MShop/"
+		},
+		"classmap": [
+			"lib/custom/src"
+		]
+	}
+}
