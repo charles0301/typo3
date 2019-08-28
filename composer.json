@@ -1,5 +1,5 @@
 {
-	"name": "aimeos/myprovider",
+	"name": "sample/myprovider",
 	"description": "Aimeos myprovider extension",
 	"keywords": ["aimeos", "extension", "payment", "shop", "e-commerce"],
 	"homepage": "https://typo3.org/",
