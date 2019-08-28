@@ -1,7 +1,7 @@
 {
 	"name": "aimeos/myprovider",
 	"description": "Aimeos myprovider extension",
-	"keywords": ["aimeos", "extension", "payment", "shop", "e-commerce",],
+	"keywords": ["aimeos", "extension", "payment", "shop", "e-commerce"],
 	"homepage": "https://typo3.org/",
 	"type": "aimeos-extension",
 	"license": "LGPL-3.0",
